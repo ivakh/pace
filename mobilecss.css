@@ -18,7 +18,7 @@ ion-side-menu li.item.item-divider {
 }
 
 .ion-ionic {
-  color: white;
+  color: orange;
 }
 .ion-home {
   color: blue;
@@ -157,13 +157,13 @@ page-core-mainmenu-more .ion-wp-globe {
 page-core-mainmenu-more .ion-md-qr-scanner,
 page-core-mainmenu-more .ion-ios-qr-scanner,
 page-core-mainmenu-more .ion-wp-qr-scanner {
-  color: orange;
+  color: white;
 }
 
 page-core-mainmenu-more .ion-md-help-buoy,
 page-core-mainmenu-more .ion-ios-help-buoy,
 page-core-mainmenu-more .ion-wp-help-buoy {
-  color: orange;
+  color: white;
 }
 
 page-core-mainmenu-more .ion-md-cog,
