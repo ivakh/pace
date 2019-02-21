@@ -1,5 +1,5 @@
 .bar-header {
-  background-color: #5069A1;
+  background-color: #003A6C;
 }
 
 ion-side-menu li .item {
@@ -65,7 +65,7 @@ ion-side-menu li.item.item-divider {
 .toolbar-background-md,
 .toolbar-background-ios,
 .toolbar-background-wp {
-  background: #5069A1;
+  background: #003a6c;
 }
 
 /* Bottom tabs selected color */
@@ -83,13 +83,13 @@ ion-side-menu li.item.item-divider {
 
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
-  color: #5069A1 !important;
-  border-bottom-color: #5069A1 !important;
+  color: #003a6c !important;
+  border-bottom-color: #003a6c !important;
 }
 
 /* Loading spinner */
 .spinner circle, .spinner line {
-    stroke: #5069A1;
+    stroke: #003a6c;
 }
 
 /* Buttons */
@@ -99,22 +99,22 @@ ion-side-menu li.item.item-divider {
 .fab-ios,
 .fab-md,
 .fab-wp {
-  background-color: #5069A1;
+  background-color: #003a6c;
 }
 
 .button-outline-md,
 .button-outline-ios,
 .button-outline-wp {
-    border-color: #5069A1;
+    border-color: #003a6c;
     background-color: #ffffff;
-    color: #5069A1;
+    color: #003a6c;
 }
 
 .button-clear-md,
 .button-clear-ios,
 .button-clear-wp {
   background-color: transparent;
-  color: #5069A1;
+  color: #003a6c;
 }
 
 /* More icon colors */
