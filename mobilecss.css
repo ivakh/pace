@@ -94,6 +94,7 @@ ion-side-menu li.item.item-divider {
 /* Loading spinner */
 .spinner circle, .spinner line {
     stroke: #003a6c !important;
+	color: #003a6c !important;
 }
 
 /* Buttons */
@@ -104,6 +105,7 @@ ion-side-menu li.item.item-divider {
 .fab-md,
 .fab-wp {
   background-color: #003a6c !important;
+  color: #003a6c !important;
 }
 
 .button-outline-md,
