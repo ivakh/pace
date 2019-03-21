@@ -58,6 +58,8 @@ ion-side-menu li.item.item-divider {
 
 .mm-site_mm_courses .tabs-icon-left {
   background-color: #EBEFF8;
+  color: #003A6C !important;
+
 }
 .mm-site_mm_courses section h2 span {
   font-weight: bold;
