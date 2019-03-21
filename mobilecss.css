@@ -78,7 +78,7 @@ ion-side-menu li.item.item-divider {
 .tabs-wp .tab-button[aria-selected=true] .tab-button-icon,
 .tabs-wp .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
 .core-tabs-bar .tabs-wp a[aria-selected=true].tab-slide .tab-button-icon {
-  color: #003a6c !important;
+  color: #ff0ac9 !important;
 }
 
 /* Tabs color*/
