@@ -1,12 +1,12 @@
 /*https://gist.githubusercontent.com/crazyserver/ed49913ac40e606c8ce29696b1b3669f/raw/9ad3549140a77f01c86267c42b85e4fb2505577e/moodlemobileapp.css*/
-
 .bar-header {
-  background-color: #003A6C;
+  background-color: #5069A1;
 }
 
 ion-side-menu li .item {
   background-color: #313848;
   border-color: #4F5865;
+  color: #BCC3CF;
 
 }
 
@@ -22,7 +22,7 @@ ion-side-menu li.item.item-divider {
   color: orange;
 }
 .ion-home {
-  color: orange;
+  color: blue;
 }
 .ion-ios-bell {
   color: yellow;
@@ -55,7 +55,6 @@ ion-side-menu li.item.item-divider {
 
 .mm-site_mm_courses .tabs-icon-left {
   background-color: #EBEFF8;
-
 }
 .mm-site_mm_courses section h2 span {
   font-weight: bold;
@@ -67,7 +66,7 @@ ion-side-menu li.item.item-divider {
 .toolbar-background-md,
 .toolbar-background-ios,
 .toolbar-background-wp {
-  background: #003a6c;
+  background: #5069A1;
 }
 
 /* Bottom tabs selected color */
@@ -80,19 +79,18 @@ ion-side-menu li.item.item-divider {
 .tabs-wp .tab-button[aria-selected=true] .tab-button-icon,
 .tabs-wp .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
 .core-tabs-bar .tabs-wp a[aria-selected=true].tab-slide .tab-button-icon {
-  
+  color: #EBEFF8;
 }
 
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
-  color: #003a6c !important;
-  border-bottom-color: #003a6c !important;
+  color: #5069A1 !important;
+  border-bottom-color: #5069A1 !important;
 }
 
 /* Loading spinner */
 .spinner circle, .spinner line {
-    stroke: #003a6c !important;
-
+    stroke: #5069A1;
 }
 
 /* Buttons */
@@ -102,20 +100,22 @@ ion-side-menu li.item.item-divider {
 .fab-ios,
 .fab-md,
 .fab-wp {
-  background-color: #003a6c !important;
+  background-color: #5069A1;
 }
 
 .button-outline-md,
 .button-outline-ios,
 .button-outline-wp {
-    border-color: #003a6c;
+    border-color: #5069A1;
     background-color: #ffffff;
+    color: #5069A1;
 }
 
 .button-clear-md,
 .button-clear-ios,
 .button-clear-wp {
   background-color: transparent;
+  color: #5069A1;
 }
 
 /* More icon colors */
