@@ -82,7 +82,7 @@ ion-side-menu li.item.item-divider {
 }
 
 /* Tabs color*/
-.core-tabs-bar .slides a.tab-slide[aria-selected=true] {
+.core-tabs-bar .slides a.tab-slide[area-selected=true] {
   color: #003a6c !important;
   border-bottom-color: #003a6c !important;
 }
