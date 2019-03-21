@@ -100,6 +100,7 @@ ion-side-menu li.item.item-divider {
 .fab-md,
 .fab-wp {
   background-color: #00d7ef;
+  color: #003a6c !important;
 }
 
 .button-outline-md,
