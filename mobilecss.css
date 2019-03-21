@@ -1,8 +1,7 @@
-
 /*https://gist.githubusercontent.com/crazyserver/ed49913ac40e606c8ce29696b1b3669f/raw/9ad3549140a77f01c86267c42b85e4fb2505577e/moodlemobileapp.css*/
 
 .bar-header {
-  background-color: #003A6C;
+  background-color: #003A6C !important;
 }
 
 ion-side-menu li .item {
@@ -20,6 +19,41 @@ ion-side-menu li.item {
 ion-side-menu li.item.item-divider {
   background-color: #3E4755;
   color: #003A6C !important;
+}
+
+.ion-ionic {
+  color: orange;
+}
+.ion-home {
+  color: orange;
+}
+.ion-ios-bell {
+  color: yellow;
+}
+.ion-chatbox {
+  color: green;
+}
+.ion-calendar {
+  color: white;
+}
+.ion-folder {
+  color: purple;
+}
+.ion-earth {
+  color: maroon;
+}
+.ion-help-buoy {
+  color: orange;
+}
+.ion-gear-b {
+  color: dimgray;
+}
+.ion-log-out {
+  color: red;
+}
+
+.ion-ionic:before {
+  content: "\f3ea";
 }
 
 .mm-site_mm_courses .tabs-icon-left {
@@ -89,4 +123,65 @@ ion-side-menu li.item.item-divider {
 .button-clear-wp {
   background-color: transparent;
   color: #003a6c !important;
+}
+
+/* More icon colors */
+page-core-mainmenu-more .ion-md-notifications,
+page-core-mainmenu-more .ion-ios-notifications,
+page-core-mainmenu-more .ion-md-notifications {
+  color: yellow;
+}
+
+page-core-mainmenu-more .ion-md-stats,
+page-core-mainmenu-more .ion-ios-stats,
+page-core-mainmenu-more .ion-md-stats {
+  color: yellow;
+}
+
+page-core-mainmenu-more .ion-md-map,
+page-core-mainmenu-more .ion-ios-map,
+page-core-mainmenu-more .ion-wp-map {
+  color: green;
+}
+
+page-core-mainmenu-more .ion-md-folder,
+page-core-mainmenu-more .ion-ios-folder,
+page-core-mainmenu-more .ion-wp-folder {
+  color: purple;
+}
+
+page-core-mainmenu-more .ion-md-link,
+page-core-mainmenu-more .ion-ios-link,
+page-core-mainmenu-more .ion-wp-link {
+  color: maroon;
+}
+
+page-core-mainmenu-more .ion-md-globe,
+page-core-mainmenu-more .ion-ios-globe,
+page-core-mainmenu-more .ion-wp-globe {
+  color: maroon;
+}
+
+page-core-mainmenu-more .ion-md-qr-scanner,
+page-core-mainmenu-more .ion-ios-qr-scanner,
+page-core-mainmenu-more .ion-wp-qr-scanner {
+  color: orange;
+}
+
+page-core-mainmenu-more .ion-md-help-buoy,
+page-core-mainmenu-more .ion-ios-help-buoy,
+page-core-mainmenu-more .ion-wp-help-buoy {
+  color: orange;
+}
+
+page-core-mainmenu-more .ion-md-cog,
+page-core-mainmenu-more .ion-ios-cog,
+page-core-mainmenu-more .ion-wp-cog {
+  color: dimgray;
+}
+
+page-core-mainmenu-more .ion-md-log-out,
+page-core-mainmenu-more .ion-ios-log-out,
+page-core-mainmenu-more .ion-wp-log-out {
+  color: red;
 }
