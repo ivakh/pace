@@ -7,18 +7,15 @@
 ion-side-menu li .item {
   background-color: #313848;
   border-color: #4F5865;
-  color: #003A6C !important;
 
 }
 
 ion-side-menu li.item {
   border-color: #4F5865;
-  color: #003A6C !important;
   }
 
 ion-side-menu li.item.item-divider {
   background-color: #3E4755;
-  color: #003A6C !important;
 }
 
 .ion-ionic {
@@ -84,7 +81,7 @@ ion-side-menu li.item.item-divider {
 .tabs-wp .tab-button[aria-selected=true] .tab-button-icon,
 .tabs-wp .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
 .core-tabs-bar .tabs-wp a[aria-selected=true].tab-slide .tab-button-icon {
-  color: #003a6c !important;
+  
 }
 
 /* Tabs color*/
@@ -96,7 +93,7 @@ ion-side-menu li.item.item-divider {
 /* Loading spinner */
 .spinner circle, .spinner line {
     stroke: #003a6c !important;
-	color: #003a6c !important;
+
 }
 
 /* Buttons */
@@ -107,7 +104,6 @@ ion-side-menu li.item.item-divider {
 .fab-md,
 .fab-wp {
   background-color: #003a6c !important;
-  color: #003a6c !important;
 }
 
 .button-outline-md,
@@ -115,14 +111,12 @@ ion-side-menu li.item.item-divider {
 .button-outline-wp {
     border-color: #003a6c;
     background-color: #ffffff;
-    color: #003a6c !important;
 }
 
 .button-clear-md,
 .button-clear-ios,
 .button-clear-wp {
   background-color: transparent;
-  color: #003a6c !important;
 }
 
 /* More icon colors */
