@@ -1,7 +1,7 @@
 /*https://gist.githubusercontent.com/crazyserver/ed49913ac40e606c8ce29696b1b3669f/raw/9ad3549140a77f01c86267c42b85e4fb2505577e/moodlemobileapp.css*/
 
 .bar-header {
-  background-color: #003A6C !important;
+  background-color: #003A6C;
 }
 
 ion-side-menu li .item {
@@ -55,7 +55,6 @@ ion-side-menu li.item.item-divider {
 
 .mm-site_mm_courses .tabs-icon-left {
   background-color: #EBEFF8;
-  color: #003A6C !important;
 
 }
 .mm-site_mm_courses section h2 span {
