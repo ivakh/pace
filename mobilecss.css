@@ -100,7 +100,7 @@ ion-side-menu li.item.item-divider {
 .fab-md,
 .fab-wp {
   background-color: #003a6c;
-  color: #ff0ac9 !important
+  color: #ff0ac9 !important;
 }
 
 .button-outline-md,
@@ -108,14 +108,14 @@ ion-side-menu li.item.item-divider {
 .button-outline-wp {
     border-color: #ff0ac9;
     background-color: #ffffff;
-    color: #ff0ac9;
+    color: #ff0ac9 !important;
 }
 
 .button-clear-md,
 .button-clear-ios,
 .button-clear-wp {
   background-color: transparent;
-  color: #ff0ac9;
+  color: #ff0ac9 !important;
 }
 
 /* More icon colors */
